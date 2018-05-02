@@ -9,7 +9,7 @@
 def select_winner(passengers)
   # add the code snippet here!
   passengers.each do |key, value|
-    if key = suite_a && value = (value[0].first = "A")
+    if key = suite_a: && value = (value[0].first = "A")
       puts key, value
     end
   end
